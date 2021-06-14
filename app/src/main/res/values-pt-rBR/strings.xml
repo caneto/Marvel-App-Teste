@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="characters">Personagens</string>
+    <string name="favorites">Favoritos</string>
+
+    <string name="try_again">TENTAR NOVAMENTE</string>
+    <string name="try_again_internet_error">Você deve estar conectado à internet para ver os personagens.</string>
+    <string name="try_again_generic_error">Algo aconteceu enquanto procurávamos os personagens.</string>
+
+    <string name="empty_favorites_message">Não possui personagem favorito? Parece que temos um traidor nesse app.</string>
+</resources>
